@@ -1,6 +1,6 @@
 [![io](docs/pictures/header.png)](https://gammasoft71.wixsite.com/xtd-tunit)
 
-# xtd_threading was merged into [xtd](https://github.com/gammasoft71/xtd).
+# xtd_io was merged into [xtd](https://github.com/gammasoft71/xtd).
 
 [![Build Status](https://travis-ci.org/gammasoft71/xtd_io.svg?branch=master)](https://travis-ci.org/gammasoft71/xtd_io)
 [![Build status](https://ci.appveyor.com/api/projects/status/qverymyu0fopqnt4?svg=true)](https://ci.appveyor.com/project/gammasoft71/xtd-io)
